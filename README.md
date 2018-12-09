@@ -27,12 +27,16 @@ $ ./mvnw spring-boot:run
 ### Run tests
 
 This project comes with some rudimentary tests as a good starting
-point for writing your own.  Use the following command to execute the
+point for writing your own. Use the following command to execute the
 tests using Maven:
 
 ```
 $ ./mvnw test
 ```
+
+### In-memory database
+
+We use H2 SQL databse. Web console is enabled and it should be available on `/h2-console` URL (eg. `http://localhost:8080/h2-console`). Please check your `application.yml` for datasource URL.
 
 ---
 
