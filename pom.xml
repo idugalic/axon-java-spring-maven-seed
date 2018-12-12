@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>axon-java-spring-maven-seed</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Seed project for Axon with Spring Boot and Java</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>

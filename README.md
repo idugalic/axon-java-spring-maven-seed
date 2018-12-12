@@ -1,6 +1,6 @@
 # axon-java-spring-maven-seed
 
-This project is a [atomist] seed for creating [axon] (spring boot) projects that are driven by [maven].
+This project is a [atomist] seed for creating [axon] (spring boot) projects that are driven by [maven] and written in Java.
 
 ## Development
 
