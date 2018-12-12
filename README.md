@@ -10,7 +10,7 @@ This project is driven using [maven].
 
 You can [download](https://download.axoniq.io/axonserver/AxonServer.zip) a ZIP file with AxonServer as a standalone JAR. This will also give you the AxonServer CLI and information on how to run and configure the server.
 
-Alternativelly, you can run the following command to start AxonServer in a Docker container:
+Alternatively, you can run the following command to start AxonServer in a Docker container:
 
 ```
 $ docker run -d --name axonserver -p 8024:8024 -p 8124:8124 axoniq/axonserver
