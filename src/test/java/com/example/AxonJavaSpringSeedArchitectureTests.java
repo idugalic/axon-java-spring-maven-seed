@@ -8,8 +8,8 @@ import com.tngtech.archunit.lang.syntax.ArchRuleDefinition;
 import org.junit.runner.RunWith;
 
 @RunWith(ArchUnitRunner.class)
-@AnalyzeClasses(packagesOf = AxonJavaSpringMavenSeedArchitectureTests.class)
-public class AxonJavaSpringMavenSeedArchitectureTests {
+@AnalyzeClasses(packagesOf = AxonJavaSpringSeedArchitectureTests.class)
+public class AxonJavaSpringSeedArchitectureTests {
 
     /**
      * Testing if the classes in "..command.. , ..query.. " packages are `package private`.
