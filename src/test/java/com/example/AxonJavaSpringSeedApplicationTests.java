@@ -12,5 +12,4 @@ public class AxonJavaSpringSeedApplicationTests {
     @Test
     public void contextLoads() {
     }
-
 }
